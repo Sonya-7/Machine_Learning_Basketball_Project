@@ -1,7 +1,7 @@
 # Machine Learning Basketball Project
 This is the final assignment for the IBM Data Science Professional Certificate Machine Learning Module
 
-## Objective(s)
+## Objective
 Apply ML to a dataset to make inferences
 
 ## Instructions
