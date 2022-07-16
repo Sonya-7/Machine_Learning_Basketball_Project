@@ -24,6 +24,9 @@ The results are reported as the accuracy of each classifier, using the following
 - Accuracy
 - Log Loss
 
+## Accuracy Scores Observed in Model
+![image](https://user-images.githubusercontent.com/92489108/179370179-8b973fd9-9c98-4948-9e68-664aa65eb260.png)
+
 ## Review Criteria
 The project is considered successful if the following requirements are met:
   * Build a KNN model using a value of k equals five, find the accuracy on the validation data 
